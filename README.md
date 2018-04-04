@@ -1,8 +1,12 @@
 # Project Gaia
 
+## Demo Page
+
+[ Demo Page](https://szhielelp.github.io/JekyllTheme-ProjectGaia/#/)
+
 ## Documents
 
-[    Click to see Documents   ](https://szhielelp.github.io/JekyllTheme-ProjectGaia-Docs/#/)
+[    Documents    ](https://szhielelp.github.io/JekyllTheme-ProjectGaia-Docs/#/)
 
 
 ## Change Log
